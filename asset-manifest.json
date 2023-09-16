@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Chatter-RR/static/css/main.36224506.css",
+    "main.js": "/Chatter-RR/static/js/main.684639ba.js",
+    "index.html": "/Chatter-RR/index.html",
+    "main.36224506.css.map": "/Chatter-RR/static/css/main.36224506.css.map",
+    "main.684639ba.js.map": "/Chatter-RR/static/js/main.684639ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36224506.css",
+    "static/js/main.684639ba.js"
+  ]
+}
